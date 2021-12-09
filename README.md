@@ -1,6 +1,6 @@
 # NFT Supermarket simple demo
 
-Build with Hardhat, Solidity, etherjs, IPFS, React
+Build with Hardhat, Solidity, ether.js, IPFS, React
 
 ## Goal
 
