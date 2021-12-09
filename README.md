@@ -1,8 +1,10 @@
 # NFT Supermarket simple demo
 
+Build with Hardhat, Solidity, etherjs, IPFS, React
+
 ## Goal
 
-User can mint and buy NFT on this demo.
+User can mint and buy NFT on web.
 
 ## Run
 
