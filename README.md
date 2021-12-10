@@ -4,7 +4,7 @@ Build with Hardhat, Solidity, ether.js, IPFS, React
 
 ## Goal
 
-User can mint and buy NFT on web.
+User can mint, sell and buy NFT on web.
 
 ## Run
 
