@@ -31,24 +31,24 @@ User can mint and buy NFT on web.
 ## Demo result
 
 No NFT in main page in the beginning <br>
-<img src="./img/1.png" width="150px" />  <br>
+<img src="./img/1.png" width="200px" />  <br>
 
 Mint file to NFT token <br>
-<img src="./img/2.png" width="150px" />  <br>
+<img src="./img/2.png" width="200px" />  <br>
 
 upload file and connect to metamask to check to mint <br>
-<img src="./img/3.png" width="150px" />  <br>
-<img src="./img/4.png" width="150px" />  <br>
+<img src="./img/3.png" width="200px" />  <br>
+<img src="./img/4.png" width="200px" />  <br>
 
 pay the listing fee <br>
-<img src="./img/5.png" width="150px" />  <br>
+<img src="./img/5.png" width="200px" />  <br>
 see the NFT on main page and my create <br>
-<img src="./img/6.png" width="150px" />  <br>
-<img src="./img/7.png" width="150px" />  <br>
+<img src="./img/6.png" width="200px" />  <br>
+<img src="./img/7.png" width="200px" />  <br>
 
 buy NFT <br>
-<img src="./img/8.png" width="150px" />  <br>
+<img src="./img/8.png" width="200px" />  <br>
 in main page <br>
-<img src="./img/9.png" width="150px" />  <br>
+<img src="./img/9.png" width="200px" />  <br>
 in My NFT page <br>
-<img src="./img/10.png" width="150px" />  <br>
+<img src="./img/10.png" width="200px" />  <br>
